@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rehank1990
 - 👀 I’m interested in Data Science with Python, R and SQL
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently a Data Scientist working in Finance
+- 💞️ I’m looking to collaborate on Python & Machine Learning Projects
 - 📫 How to reach me rehank1990@gmail.com
 
 <!---
