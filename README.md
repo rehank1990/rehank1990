@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rehank1990
 - 👀 I’m interested in Data Science with Python and SQL
-- 🌱 I’m currently a Data Scientist working in Finance
+- 🌱 I’m currently an Analytics Professional working in Finance
 - 💞️ I’m looking to collaborate on Python & Machine Learning Projects
 - 📫 How to reach me rehank1990@gmail.com
 
